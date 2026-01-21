@@ -11,6 +11,11 @@
     hsl(230, 22%, 74%),
     hsl(230, 22%, 74%)
   );
+  --color-hover: linear-gradient(
+    to right,
+    hsl(210, 79%, 56%),
+    hsl(146, 68%, 55%)
+  );
   --color-Instagram: linear-gradient(
     to right,
     hsl(37, 97%, 70%),
